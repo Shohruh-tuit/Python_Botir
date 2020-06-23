@@ -4,3 +4,7 @@
 # print('{:.5}'.format(s))    # truncate long string -- yani nechta belgini chiqarish
 
 # print('{} {}'.format('one', 'two'))
+
+# soz = 'I love programming with python'
+# print(len(soz.split()))
+
