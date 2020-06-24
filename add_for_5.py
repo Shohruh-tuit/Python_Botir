@@ -13,3 +13,5 @@ def TrueFalse(Javob):
         print("Formani boshqattan to'ldiring, please!!! ")
 
 TrueFalse(Javob)
+
+#Nu ladno
