@@ -62,3 +62,5 @@ elif soz in undosh:
     print('undosh harf')
 else:
     print('Siz harf kiritmadingiz')
+
+# 3dwd
