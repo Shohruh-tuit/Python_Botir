@@ -23,3 +23,4 @@ elif yil % 100 == 0:
         print("Kabisa yili emas")
 else:
     print("Kabisa yili")
+    # dwdwd
