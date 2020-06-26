@@ -17,5 +17,3 @@
 # b = a // 10
 
 # print(a1 + b + c)
-print()
-#dwdw
