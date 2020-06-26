@@ -63,4 +63,3 @@ elif soz in undosh:
 else:
     print('Siz harf kiritmadingiz')
 
-# 3dwd
