@@ -27,3 +27,5 @@ while True:
         print("Rahmat")
         break
     print("Xatolik!!!")
+
+#While operatori
