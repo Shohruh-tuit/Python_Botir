@@ -39,6 +39,7 @@ chegara.down()
 chegara.goto(-125, -125)
 chegara.goto(-40, -125)
 chegara.goto(-40, -150)
+chegara.hideturtle()
 
 koptok = Turtle()
 koptok.shape('circle')
@@ -71,4 +72,4 @@ while True:
     
 oyna.mainloop()
 
-# Programmng
+# Programming
