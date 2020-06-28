@@ -70,3 +70,5 @@ while True:
     koptok.goto(x + step_x, y + step_y)
     
 oyna.mainloop()
+
+# Programming
